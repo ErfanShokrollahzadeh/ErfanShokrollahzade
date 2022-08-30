@@ -19,7 +19,7 @@
   ## 🛠️ Languages & Tools
   ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-blueviolet?style=flat-square&logo=visualstudio)
   ![Csharp](https://img.shields.io/badge/-Csharp-blueviolet?style=flat-square&logo=csharp&logoColor=ffffff)
-  ![Django](https://img.shields.io/badge/-Django-blueviolet?style=flat-square&logo=Django&logoColor=ffffff)
+  ![Django](https://img.shields.io/badge/-Django-blueviolet?style=flat-square&logo=Django&logoColor=44f40a)
   ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
   ![Typescript](https://img.shields.io/npm/types/typescript?color=007acc&label=%20%20%20&logo=typescript&logoColor=ffffff&style=flat-square)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
