@@ -48,9 +48,7 @@
               <img height="100%" wdith="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hootanht&layout=compact" alt="hootanht's WakaTime" />
 
     </a>
-    <a>
-    <img height="100%" wdith="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanShokrollahzade&theme=material-palenight" alt="ErfanShokrollahzade's Github Steak" />
-    </a>
+        <img height="100%" wdith="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanShokrollahzade&theme=material-palenight" alt="ErfanShokrollahzade's Github Steak" />
   </p>
   
   #### You can find me on:
