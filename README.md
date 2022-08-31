@@ -41,15 +41,14 @@
   <p align="center">
    <a href="https://github.com/ErfanShokrollahzade">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanShokrollahzade&layout=compact&theme=material-palenight&langs_count=12" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ErfanShokrollahzade&show_icons=true&include_all_commits=true&theme=material-palenight" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ErfanShokrollahzade=true&include_all_commits=true&theme=material-palenight" />
     
    </a>
     <a>
-              <img height="100%" wdith="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hootanht&layout=compact" alt="hootanht's WakaTime" />
-
+      <img height="100%" wdith="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ErfanShokrollahzade&layout=compact" alt="hootanht's WakaTime" />
     </a>
     <a>
-        <img height="100%" wdith="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanShokrollahzade&theme=material-palenight" alt="ErfanShokrollahzade's Github Steak" />
+    <img height="100%" wdith="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanShokrollahzade&theme=material-palenight" alt="ErfanShokrollahzade's Github Steak" />
     </a>
   </p>
   
@@ -75,5 +74,4 @@
    </a>
     <br />
     <!-- <a href="https://stackoverflow.com/users/10358773/hootanht"><img src="https://stackoverflow.com/users/flair/10358773.png?theme=dark" width="208" height="58" alt="profile for HootanHT at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for HootanHT at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
-  </p>
-  
+  </p>  
