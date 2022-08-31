@@ -1,7 +1,7 @@
 
 <div align="center">
     <h1> ⚡️ERFAN⚡️</h1>
-    <img  src="https://tenor.com/view/developer-gif-23414225"/>
+    <img width=55% src="https://tenor.com/view/developer-gif-23414225"/>
   </div>
     
   <br> 
