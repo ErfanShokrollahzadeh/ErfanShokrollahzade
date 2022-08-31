@@ -41,7 +41,7 @@
   <p align="center">
    <a href="https://github.com/ErfanShokrollahzade">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanShokrollahzade&layout=compact&theme=material-palenight&langs_count=12" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ErfanShokrollahzade_icons=true&include_all_commits=true&theme=material-palenight" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ErfanShokrollahzade=true&include_all_commits=true&theme=material-palenight" />
     
    </a>
     <a>
