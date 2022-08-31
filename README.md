@@ -1,7 +1,7 @@
 
 <div align="center">
     <h1> ⚡️ERFAN⚡️</h1>
-    <img width=55% src="https://tenor.com/view/external-bpm-gif-21145631"/>
+    <img width=55% src="https://discord.com/channels/@me/982648273959518249/1014433928058253404"/>
   </div>
     
   <br> 
