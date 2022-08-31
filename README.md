@@ -16,6 +16,8 @@
   - 📚 Learning everything Web Development, Mobile Development, Machine Learning, ... 
   - 🎮 Play game for habits 😉
   - 💬 Feel free to reach out, happy to help
+  - ⚙️ I'm always trying to find something about programming...
+  - 💻 Full-stack developer web (python & Django)
   
   ## 🛠️ Languages & Tools
   ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-blueviolet?style=flat-square&logo=visualstudio)
